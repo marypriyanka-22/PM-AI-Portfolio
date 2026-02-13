@@ -42,9 +42,8 @@ git clone <your-repo-url>
 - Contact (`CONTACT.md`)
 
 ## Contact & Links ✉️
-- **Email:** your.email@example.com
-- **LinkedIn:** linkedin.com/in/yourprofile
-- **Twitter/X:** @yourhandle
+- **Email:** marypriyanka@gmail.com
+- **LinkedIn:** www.linkedin.com/in/mary-priyanka-pmp®-17380718
 
 ---
 
